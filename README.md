@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **dev.khalidhossain@gmail.com**
 
