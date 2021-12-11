@@ -7,13 +7,13 @@
 
 
 
-- 🌱 I’m currently learning **ReactJs**
+  - <p>🌱 I’m currently learning **ReactJs**</p>
 
-- 💬 Ask me about **Web**
+- <p>💬 Ask me about **Web**</p>
 
-- 📫 How to reach me **dev.khalidhossain@gmail.com**
+- <p>📫 How to reach me **dev.khalidhossain@gmail.com**</p>
 
-- ⚡ Fun fact **I'm crazy about exploring**
+- <p>⚡ Fun fact **I'm crazy about exploring**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
