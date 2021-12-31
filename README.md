@@ -9,7 +9,7 @@
 
 <p>🌱 I’m currently learning <b>ReactJs</b></p>
 
-  <p>💬 Ask me about <b>Web</b></p>
+  <p>💬 Ask me about <b>Tech</b></p>
 
  <p>📫 How to reach me <b>dev.khalidhossain@gmail.com</b></p>
 
