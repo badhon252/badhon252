@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **t.me/khalidhossainbadhon**
+- 📫 How to reach me **www.https://t.me/khalidhossainbadhon**
 
 - ⚡ Fun fact **I'm crazy about exploring**
 
