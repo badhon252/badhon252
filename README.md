@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📝 I regularly write articles on [https://heykhalid.blogspot.com/](https://heykhalid.blogspot.com/)
+
 
 - 💬 Ask me about **JavaScript**
 
