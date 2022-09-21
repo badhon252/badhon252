@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidhossainbadhon&label=Profile%20views&color=0e75b6&style=flat" alt="khalidhossainbadhon" /> </p>
 
-<p align="left"> <a href="https://twitter.com/khalidhossainb1" target="blank"><img src="https://img.shields.io/twitter/follow/khalidhossainb1?logo=twitter&style=for-the-badge" alt="khalidhossainb1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/badhon252" target="blank"><img src="https://img.shields.io/twitter/follow/badhon252?logo=twitter&style=for-the-badge" alt="badhon252" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
