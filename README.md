@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-⚡ A passionate developer from ### Bangladesh, South Asia.  
+### <div align="center">⚡ A passionate developer from Bangladesh, South Asia.  </div>
 
 
 - 🌱 I’m currently learning CI/CD and TDD (agile workflow)  
