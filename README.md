@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### <div align="center">⚡ A passionate developer from Bangladesh, South Asia.  </div>
+### <div align="center">🚀 A passionate developer from Bangladesh.</div>
 
 <br/>
 
