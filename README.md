@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### <div align="center">🚀 A passionate Frontend web developer.</div>
+## <div align="center">🚀 A passionate Frontend web developer.</div>
 
 <br/>
 
