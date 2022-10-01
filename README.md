@@ -7,7 +7,7 @@
 
 ## <div align="center">🚀 A passionate Frontend web developer.</div>
 
-<br/>
+
 
 - 🌱 I’m currently learning CI/CD and TDD (agile workflow)  
   
