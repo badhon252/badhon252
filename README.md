@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning CI/CD and TDD (agile workflow)  
+- 🌱 I’m currently learning Core JavaScript⚡👨‍💻
   
 
 - ⚡ Fun fact: I love patterns & Algorithms  
