@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning Core JavaScript⚡👨‍💻
+- 🌱 I’m currently learning/mastering ReactJS⚡👨‍💻
   
 
 - ⚡ Fun fact: I love patterns & Algorithms  
