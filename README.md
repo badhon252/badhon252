@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://badhon252.me](https://badhon252.me)
+- 👨‍💻 All of my projects are available at [Portfolio Websit](https://badhon252.me)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I weekly write articles on [Medium](https://medium.com/me/stories/public)
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **https://t.me/khalidhossainbadhon**
+- 📫 How to reach me [Telegram](https://t.me/khalidhossainbadhon)
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1WHBBv3IyBqTmRvdF2hZcukC7aPOpnQefklASPJIh8nE/edit?usp=sharing)
 
