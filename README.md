@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/badhon252" target="blank"><img src="https://img.shields.io/twitter/follow/badhon252?logo=twitter&style=for-the-badge" alt="Khalid Hossain Badhon" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently mastering **NextJs & TypeScript**
 
 - 👨‍💻 All of my projects are available at [Portfolio Websit](https://badhon252.me)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [Telegram](https://t.me/khalidhossainbadhon)
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1WHBBv3IyBqTmRvdF2hZcukC7aPOpnQefklASPJIh8nE/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1vb8WyJPbrLfE5a5NOw4y0TK2mAZ7gEllx0K4ptzV6O4/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm crazy about learning & exploring.**
 
