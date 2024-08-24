@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently mastering **NextJs & TypeScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio Websit](https://badhon252.me)
+- 👨‍💻 All of my projects are available at [Portfolio Websit](https://khalidhossain.vercel.app/)
 
 - 📝 I weekly write articles on [Medium](https://medium.com/me/stories/public)
 
