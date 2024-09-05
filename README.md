@@ -4,7 +4,7 @@
   
 <br/>
 <br/>
-<h1 align="center">Hi 👋, I'm khalid Hossain.</h1>
+<h1 align="center">Hi 👋, I'm Khalid Hossain.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidhossainbadhon&label=Profile%20views&color=0e75b6&style=flat" alt="khalidhossainbadhon" /> </p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently mastering **NextJs & TypeScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio Websit](https://khalidhossain.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Websit](https://badhon.vercel.app/)
 
 - 📝 I weekly write articles on [Medium](https://medium.com/me/stories/public)
 
