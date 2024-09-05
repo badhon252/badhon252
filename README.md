@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [Telegram](https://t.me/khalidhossainbadhon)
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1vb8WyJPbrLfE5a5NOw4y0TK2mAZ7gEllx0K4ptzV6O4/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18Q6N1RkN8kGTEC-OgnEYQxNt77Nx5dF8/view?usp=sharing)
 
 - ⚡ Fun fact **I'm crazy about learning & exploring.**
 
