@@ -5,23 +5,23 @@
 <br/>
 <br/>
 <h1 align="center">Hi 👋, I'm Khalid Hossain.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh!</h3>
+<h3 align="center">A passionate Fullstack developer from Bangladesh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidhossainbadhon&label=Profile%20views&color=0e75b6&style=flat" alt="khalidhossainbadhon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/badhon252" target="blank"><img src="https://img.shields.io/twitter/follow/badhon252?logo=twitter&style=for-the-badge" alt="Khalid Hossain Badhon" /></a> </p>
 
-- 🌱 I’m currently mastering **NextJs & TypeScript**
+- 🌱 I’m currently mastering **Backend Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio Websit](https://badhon.vercel.app/)
 
 - 📝 I weekly write articles on [Medium](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Web Development/UI-UX**
 
 - 📫 How to reach me [Telegram](https://t.me/khalidhossainbadhon)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18Q6N1RkN8kGTEC-OgnEYQxNt77Nx5dF8/view?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
 - ⚡ Fun fact **I'm crazy about learning & exploring.**
 
