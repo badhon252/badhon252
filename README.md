@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif" align="center" style="width: 100%" />
+[![Khalid Hossain Badhon]([https://example.com/image.png](https://media.licdn.com/dms/image/v2/D5622AQFEU_g0I7zgaA/feedshare-shrink_2048_1536/B56ZhkDFR.H0Aw-/0/1754025199349?e=1758153600&v=beta&t=Qi7XMvtcGh0LX2_q3_aPzuSRaf1epQy16QFYwl3vC3g))]([https://your-link.com](https://www.linkedin.com/in/khalidhossainbadhon))
 </div>  
   
 <br/>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently mastering **Advance Frontend**
 
-- 👨‍💻 All of my projects are available at [Portfolio Websit](https://badhon.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Websit](https://khalid-v2.vercel.app/)
 
 - 📝 I weekly write articles on [Medium](https://medium.com/me/stories/public)
 
