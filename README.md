@@ -1,54 +1,118 @@
 # Hi there, I'm Khalid Hossain Badhon 👋
 
 ## 🌟 About Me  
-I’m a Front‑End Engineer at ScaleUp Ads Agency with a strong track record of building and leading frontend teams. I specialize in React / Next.js / Inertia.js projects, and I enjoy solving complex UI/UX problems and optimizing performance across devices.  
+I’m a Front-End Engineer at ScaleUp Ads Agency with experience leading frontend teams and building performant, scalable web applications. I specialize in React, Next.js, and Inertia.js, with a strong focus on UI/UX, multilingual support, and high-performance applications.
 
-Currently, I’m focusing on:  
-- Converting legacy codebases (e.g., from Next.js TypeScript to Inertia.js React + JavaScript)  
-- Improving performance: lazy loading, caching, smooth scrolling & carousels  
-- Building multilingual e-commerce applications with robust internationalization  
-
-I value clean, maintainable code and practical solutions — delivering high quality UI while keeping the structure maintainable and scalable.  
-
----
-
-## 🛠️ Stack & Tech Skills  
-- **Frontend:** JavaScript, React, Next.js, Inertia.js, HTML, CSS/SASS, SVG / CSS animations  
-- **Backend / Full‑Stack:** Node.js / MERN stack (for projects where I handle full‑stack work)  
-- **Other tools:** Stripe integration, performance optimization (lazy loading, caching), multilingual support (i18n), responsive design, version control (Git)  
-- **Workflow / Methodologies:** Component‑based architecture, modular code, team collaboration and code reviews  
+I’m passionate about:  
+- Optimizing frontend performance (lazy loading, caching, smooth scrolling)  
+- Building multilingual e-commerce platforms  
+- Creating immersive, interactive user experiences  
+- Bridging the gap between design and production-ready code  
 
 ---
 
-## 🎯 What I’m Working On / Interested In  
-- Building and maintaining a dynamic multilingual e-commerce site (multi‑language support includes Spanish, English, Thai, German, Japanese, French, Italian, Chinese, Portuguese, Hindi, Russian)  
-- Enhancing performance and user experience: lazy loading images/videos, fixing carousel flickers, improving caching & asynchronous content rendering  
-- Developing feature-rich interactive UIs like animated SVG text, chat panels, mobile-responsive modals  
-- Learning & exploring advanced web performance optimization and full‑stack web architecture  
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Shadcn-ui, Framer Motion  
+- **State Management:** Redux, Zustand  
+- **Backend / Full-stack:** Node.js, Express, PHP, Laravel, MongoDB, MySQL  
+- **APIs & Services:** RESTful APIs, Stripe, Next Auth, Axios, TanStack Query  
+- **Other:** SEO optimization, responsive design, accessibility compliance  
 
 ---
 
-## 💡 Projects & Highlights  
-*(Replace the placeholders with your actual repo/project links and descriptions.)*  
+## 💼 Featured Projects
 
-### [Project 1 — eCommerce Multilingual Platform](#)  
-A full-featured e-commerce platform supporting multiple languages (EN, ES, TH, DE, JP, FR, IT, ZH, PT, HI, RU), built with React / Next.js / Inertia.js. Includes optimized image/video lazy loading, i18n routing based on URL paths (e.g. `/shop/:category/:subcategory`), and high-performance caching.
+### 1. [The Social Chamber](https://thesocialchamber.com/)  
+**Private Rooms for Unforgettable Experiences**  
+Enjoy immersive movie experiences in themed rooms with friends, family, or your special someone.  
+**Technologies:** Next.js, React.js, TypeScript, Tailwind CSS, Shadcn-ui, Express, MongoDB, Zustand  
+**Features:**  
+- User authentication & authorization  
+- Stripe payment integration  
+- Multi-step booking system with calendar  
+- Admin dashboard for managing rooms, bookings, users, and payments  
+- Responsive, SEO-optimized, high-performance  
 
-### [Project 2 — Animated SVG / UI Experiments](#)  
-Converted vanilla JS SVG‑text animation to work in Next.js 14. Great for showcasing interactive UI features and front-end animation skills.
-
-### [Project 3 — Frontend Performance Enhancements & Refactoring](#)  
-Refactored legacy codebases, improved lazy-loading, fixed flickering issues in carousels, and optimized rendering flows for better user experience across devices.
+[GitHub](https://github.com/badhon252/The-Social-Chamber) | [Live Demo](https://thesocialchamber.com/)
 
 ---
 
-## 🔗 Connect / Find Me  
-- LinkedIn: https://www.linkedin.com/in/khalidhossainbadhon/  
-- GitHub: https://github.com/`<your‑github‑username>`  
-- Email: `<your‑email‑here>` *(optional)*  
+### 2. [CQD Cleaning Services](https://www.cqdcleaningservices.com/)  
+**Top-tier cleaning services for health & safety**  
+Delivering reliable, efficient cleaning solutions with flexible packages.  
+**Technologies:** Next.js, React.js, TypeScript, Tailwind CSS, Laravel, MySQL  
+**Features:** Lead generation forms, quote requests, subscription management, admin dashboard, service listings, blog integration  
+
+[GitHub](https://github.com/badhon252/cqd-cleaningservice) | [Live Demo](https://www.cqdcleaningservices.com/)
+
+---
+
+### 3. [Seoul Mirage Cosmetics](https://seoulmirage.com/en)  
+**Premium skincare inspired by Korea**  
+E-commerce platform for Korean beauty products in UAE, supporting English & Arabic.  
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Redux, Node.js, Express, MongoDB, Next Auth  
+**Features:** E-commerce functionality, translation support, wishlist, discount codes, product catalog filtering, shopping cart, payment integration, admin dashboard, analytics, SEO & performance optimization  
+
+[GitHub](https://github.com/badhon252/seoulmirage) | [Live Demo](https://seoulmirage.com/en)
+
+---
+
+### 4. [Going 2 Zero](https://going2zero.com/)  
+**Helping businesses achieve net zero**  
+AI-powered platform to certify and guide companies toward sustainable operations.  
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Framer Motion, Node.js, MongoDB, Express  
+**Features:** Carbon footprint calculation, subscription plans, blog, admin dashboard, responsive and SEO optimized  
+
+[GitHub](https://github.com/badhon252/going2zero) | [Live Demo](https://going2zero.com/)
+
+---
+
+### 5. [Interactive Film Pitch Website](https://www.mommacanyouhearme.com/)  
+**Immersive storytelling for film pitches**  
+Interactive site for showcasing film concepts, characters, and narratives.  
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Shadcn-ui  
+**Features:** Interactive UI/UX, animations, SEO & performance optimization  
+
+[Live Demo](https://www.mommacanyouhearme.com/)
+
+---
+
+### 6. [Grati Swag](https://gratiswag.com/)  
+**Modern SAAS platform for corporate swag stores**  
+Reward employees and celebrate achievements with a fully-featured swag store.  
+**Technologies:** React, Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB, Stripe  
+**Features:** E-commerce, style customization, branding, inventory & employee management, analytics, responsive & SEO optimized  
+
+[Live Demo](https://gratiswag.com/)
+
+---
+
+### 7. [Destination Travel](https://www.destinationtravelbd.com/)  
+**Simplifying international travel**  
+Travel agency platform assisting with visas, passports, and travel packages.  
+**Technologies:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
+**Features:** Lead generation, booking inquiries, travel listings, Google Maps & WhatsApp integration, responsive & SEO optimized  
+
+[Live Demo](https://www.destinationtravelbd.com/)
+
+---
+
+### 8. [LAWBIE](https://lawbie.com/)  
+**Legal marketplace for lawyers**  
+Multi-vendor platform for buying and selling legal documents and services across BD & UAE.  
+**Technologies:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Stripe  
+**Features:** E-commerce, admin dashboard, document marketplace, user reviews, country-specific catalog, responsive & SEO optimized  
+
+[Live Demo](https://lawbie.com/)
+
+---
+
+## 🔗 Connect with Me  
+- LinkedIn: [khalidhossainbadhon](https://www.linkedin.com/in/khalidhossainbadhon/)  
+- GitHub: [badhon252](https://github.com/badhon252)  
+- Email: `<your-email>`  
 
 ---
 
 ## ⚡ Fun Fact  
-- I’ve worked across multiple frontend stacks and successfully migrated/converted codebases while preserving core logic and structure.  
-- I enjoy balancing performance optimization with great UX — bridging the gap between design reference and actual code delivery.  
+I enjoy bridging the gap between design and code, optimizing web performance, and creating immersive user experiences that delight users across devices.
